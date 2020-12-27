@@ -4,16 +4,16 @@
 
 - [ ] GitHub
 - [ ] A Pull Request
-- [ ] A feature branch
+- [x] A feature branch
 
 2. How would you get all the commits from a remote branch?
 
-- [ ] `git fetch`
+- [x] `git fetch`
 - [ ] `git pull`
 - [ ] `git commits -r`
 
 3. How do you switch to a branch?
    
-- [ ] `git switch [branch-name]`
-- [ ] `git checkout [branch-name]`
+- [x] `git switch [branch-name]`
+- [x] `git checkout [branch-name]`
 - [ ] `git load [branch-name]`
