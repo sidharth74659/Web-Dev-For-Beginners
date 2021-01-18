@@ -2,11 +2,11 @@
 
 1. Arguments must be provided for all parameters in a function
 
-- [ ] true
+- [x] true
 - [ ] false
 
 2. What does a default value do?
 
 - [ ] Sets a correct value
-- [ ] Gives a starter value for a parameters so your code still behaves if you omit an argument for it
+- [x] Gives a starter value for a parameters so your code still behaves if you omit an argument for it
 - [ ] Has no utility

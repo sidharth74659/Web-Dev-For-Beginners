@@ -2,12 +2,12 @@
 
 1. The following operator `==` is called
 
-- [ ] Equality
+- [x] Equality
 - [ ] Strict equality
 - [ ] Assignment
 
 2. A comparison in JavaScript returns what type?
 
-- [ ] boolean
+- [x] boolean
 - [ ] null
 - [ ] string
